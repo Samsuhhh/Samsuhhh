@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Samuel Suh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sam Suh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+welcome+to+my+Github..&hearts;++;App+Academy+Alumnus,;UCSB+Alumnus,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Full Stack Software developer
-- Playing CTF's at spare time
+- Playing volleyball, basketball, and video games when I'm not eating, sleeping, or coding.
 - Currently improving personal projects and looking for work as a SWE.
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
