@@ -34,11 +34,19 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
+
+[![My Skills](https://skillicons.dev/icons?i=redux,postgres,docker,sqlite)](http://nope-yelp.herokuapp.com)
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,heroku)](http://nope-yelp.herokuapp.com)
+
+- Python, Flask, JavaScript, React
+- Redux, Postgres, Docker, SQLite
+- CSS3, HTML5, Heroku
+
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
+<!-- <br>   
     
 - **Front-End Development**:
 
@@ -46,13 +54,13 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- <br>
+<br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br> -->
+<br>
 
 - **Softwares and Tools**:
 
@@ -73,7 +81,7 @@
 </p>
 
 <br>
-<br>
+<br> -->
 
 -----
 
