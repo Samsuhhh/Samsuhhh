@@ -27,6 +27,7 @@
 </a>
 
 </ul>
+	
 </div>
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
@@ -39,14 +40,13 @@
 <br>
 
 
-<div style="float: left;">
-
+<div align="left">
 
 <a href="https://github.com/Samsuhhh/">
   <img src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"/>
 </a>
 
-<div style="float: right;">
+<div align="right">
 	
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
 
@@ -62,10 +62,6 @@
 </div>
 	
 </div>
-
-
-	
-
 
 <a href="https://github.com/Samsuhhh/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsuhhh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"  alt="Samsuhhh"/>
