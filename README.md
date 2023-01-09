@@ -41,7 +41,7 @@
 <div align="center">
 
 
-<div align="column">
+<div align="left">
 <ul>
 <a href="https://github.com/Samsuhhh/">
 	<li>
