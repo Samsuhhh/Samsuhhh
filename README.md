@@ -59,10 +59,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,heroku)](http://nope-yelp.herokuapp.com)
 
-- Python, Flask, JavaScript, React
+<!-- - Python, Flask, JavaScript, React
 - Redux, Postgres, Docker, SQLite
 - CSS3, HTML5, Heroku
-
+ -->
 
 </div>
 </div>
