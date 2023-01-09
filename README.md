@@ -48,6 +48,7 @@
 </a>
 </div>
 <div align="right">
+	
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
 
 [![My Skills](https://skillicons.dev/icons?i=redux,postgres,docker,sqlite)](http://nope-yelp.herokuapp.com)
@@ -57,7 +58,8 @@
 - Python, Flask, JavaScript, React
 - Redux, Postgres, Docker, SQLite
 - CSS3, HTML5, Heroku
-	</div>
+
+</div>
 </div>
     
 <!--     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
