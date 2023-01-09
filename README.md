@@ -51,7 +51,7 @@
 
 
 	
-<div float="right">
+<div style="float: right;">
 	
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
 
