@@ -39,13 +39,13 @@
 <br>
 
 <div style="display:flex">
-<div align="left">
+	
 <a href="https://github.com/Samsuhhh/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsuhhh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"  alt="Samsuhhh"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsuhhh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"  alt="Samsuhhh"/>
 </a>
-</div>
+	
 <div align="right">
 	
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
