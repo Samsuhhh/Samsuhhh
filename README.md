@@ -52,11 +52,10 @@
 	
 <div align="center">
 	
-[![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com) [![My Skills](https://skillicons.dev/icons?i=redux,postgres,docker,sqlite)](http://nope-yelp.herokuapp.com) [![My Skills](https://skillicons.dev/icons?i=css,html,heroku)](http://nope-yelp.herokuapp.com)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,postgres,docker,sqlite)](http://nope-yelp.herokuapp.com)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,heroku)](http://nope-yelp.herokuapp.com)
+
 
 <!-- - Python, Flask, JavaScript, React
 - Redux, Postgres, Docker, SQLite
