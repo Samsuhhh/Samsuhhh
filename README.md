@@ -22,18 +22,6 @@
 <img src="https://img.shields.io/badge/linkedin:  Samsuhhh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-
-<!-- <br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br> -->
-
-
 <a href="mailto:suhvivor24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Samsuhhh-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
@@ -50,9 +38,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
-<p align="center">
-
+<div align="center">
+<p align="right">
+<div align="right">
 - **Languages**:
     
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com)
@@ -68,14 +56,14 @@
 <!--     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
 
 -----
-
+</div>
 <br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Samsuhhh/">
   <img src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"/>
@@ -83,7 +71,7 @@
 
 </a>
 </div>
-
+</div>
 <br>
 
 -----
