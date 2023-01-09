@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/gmail:  Samsuhhh-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-	
 </ul>
 </div>
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
@@ -40,7 +39,7 @@
 <br>
 
 <div style="display:flex">
-<div syle="display:flex; flex-direction:column">
+<div syle="display:flex; flex-direction:column" align="left">
 <a href="https://github.com/Samsuhhh/">
   <img src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415" height="250"/>
 
