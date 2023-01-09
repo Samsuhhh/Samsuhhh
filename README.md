@@ -39,7 +39,7 @@
 <br>
 
 
-<div align="left">
+<div style="float: left;">
 
 
 <a href="https://github.com/Samsuhhh/">
