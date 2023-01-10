@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi, welcome to my Github profile. My name is Sam and I am a...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Welcome, welcome. Hello, hello. My name is Sam and I am a...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UC+Santa+Barbara+2022+Alumnus,;App+Academy+2023+Alumnus,;Active+Learner/Researcher,;Please+hire+me..&hearts;Btw+this+is+pretty+cool,right?+lol;Much+wow;fr+tho+please+hire+me..&hearts;"></a>
