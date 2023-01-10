@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Welcome, welcome. Hello, hello.</b></h1>
+<h1 align="center">Welcome, welcome. Hello, hello.</h1>
 	
 <h1 align="center"><b>My name is Sam and I am a...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
