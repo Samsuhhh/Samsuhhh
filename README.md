@@ -1,15 +1,15 @@
 
-<h1 align="center"><b>Hi , I'm Sam Suh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, welcome to my Github profile. My name is Sam and I am a...</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+welcome+to+my+Github..&hearts;++;App+Academy+Alumnus,;UC+Santa+Barbara+2022+Alumnus,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3,This+is+pretty+cool,right?+lol;please+hire+me"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=UC+Santa+Barbara+2022+Alumnus,;App+Academy+2023+Alumnus,;Active+Learner/Researcher,;please+hire+me..&hearts;Btw,+this+is+pretty+cool,right?+lol;Much+wow;fr+tho+please+hire+me..&hearts;"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- A passionate Full Stack Software developer
+- Passionate Full Stack Software developer.
 - Playing volleyball, basketball, and video games when I'm not eating, sleeping, or coding.
 - Currently improving personal projects and looking for work as a SWE.
 <div align='left'>
