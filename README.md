@@ -12,7 +12,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - Passionate Full Stack Software developer based in San Jose, California.
-- Playing volleyball, basketball, or (mentally) in the Bahamas when I'm not eating, sleeping, or coding.
+- Playing volleyball, basketball, or in Hawaii (mentally) when I'm not eating, sleeping, or coding.
 - Using free time to improve personal projects and looking for work as a SWE.
 - Currently focused on preparing for Data Structures and Algorithms with Leetcode. 
 - Hoping to learn GO, Typescript, or Tailwind next.
