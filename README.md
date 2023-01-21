@@ -15,7 +15,7 @@
 - Playing volleyball, basketball, or in Hawaii (mentally) when I'm not eating, sleeping, or coding.
 - Using free time to improve personal projects and looking for work as a SWE.
 - Currently focused on preparing for Data Structures and Algorithms with Leetcode. 
-- Hoping to learn GO, Typescript, or Tailwind next.
+- Hoping to learn Typescript, Flutter, or Tailwind next.
 <div align='left'>
 
 <ul>
