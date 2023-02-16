@@ -11,11 +11,11 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- Passionate Full Stack Software developer based in San Jose, California.
-- Playing volleyball, basketball, or in Hawaii (mentally) when I'm not eating, sleeping, or coding.
+- Passionate Full Stack Software engineer based in San Jose, California.
 - Using free time to improve personal projects and looking for work as a SWE.
 - Currently focused on preparing for Data Structures and Algorithms with Leetcode. 
 - Hoping to learn Typescript, Flutter, or Tailwind next.
+- Free time ? Basketball || Volleyball || Gaming : Coding
 <div align='left'>
 
 <ul>
