@@ -9,13 +9,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - Passionate Full Stack Software engineer based in San Jose, California.
-- Using free time to improve personal projects and looking for work as a SWE.
-- Currently focused on preparing for Data Structures and Algorithms with Leetcode. 
-- Hoping to learn Typescript, Flutter, or Tailwind next.
-- Free time ? Basketball || Volleyball || Gaming : Coding
+- Using free time to improve personal projects and contribute to open-source projects.
+- Currently focused on preparing for DS&A with Leetcode. 
+- I love to eat good food, play sports, and code personal projects in my free time.
 <div align='left'>
 
 <ul>
@@ -33,10 +31,6 @@
 </ul>
 	
 </div>
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
-<!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume]() -->
-
-<!-- <br><br> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -58,7 +52,7 @@
 	
 [![My Skills](https://skillicons.dev/icons?i=py,flask,js,react)](http://nope-yelp.herokuapp.com) [![My Skills](https://skillicons.dev/icons?i=redux,postgres,docker,sqlite)](http://nope-yelp.herokuapp.com) [![My Skills](https://skillicons.dev/icons?i=css,html,heroku)](http://nope-yelp.herokuapp.com)
 
-<!-- - Python, Flask, JavaScript, React
+<!-- - Typescript, Tailwind, Python, Flask, JavaScript, React
 - Redux, Postgres, Docker, SQLite
 - CSS3, HTML5, Heroku
  -->
