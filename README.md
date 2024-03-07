@@ -20,7 +20,7 @@
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
 - I'm open to discussing a new role that would allow me to leverage my current technical skills. That said, the most attractive role for me is one that fosters technical and professional development.
-- I love talking about code, pair programming on projects, and bouncing ideas off of other developers, so please don't hesitate to connect!
+- I love talking about code, pair programming on projects, and bouncing ideas off of other developers. If you have feedback on my public projects or just want to talk, please don't hesitate to connect!
 <br></br>
 <a href="https://linkedin.com/in/Samsuhhh" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Samsuhhh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
