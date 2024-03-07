@@ -18,8 +18,10 @@
 
 <ul>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-	
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
+- I'm open to discussing a new role that would allow me to leverage my current technical skills. That said, the most attractive role for me is one that fosters technical and professional development.
+- I love talking about code, pair programming on projects, and bouncing ideas off of other developers, so please don't hesitate to connect!
+<br></br>
 <a href="https://linkedin.com/in/Samsuhhh" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Samsuhhh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
@@ -39,13 +41,13 @@
 
 
 <div align="center">
-
-<a href="https://github.com/Samsuhhh/">
+<!-- <a href="https://github.com/Samsuhhh/">
   <img src="https://github-readme-stats.vercel.app/api?username=Samsuhhh&include_all_commits=true&count_private=true&show_icons=true&line_height=31&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="250"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
+
 <a href="https://github.com/Samsuhhh/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsuhhh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" height="250"  alt="Samsuhhh"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samsuhhh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="800" height="250"  alt="Samsuhhh"/>
 </a>
 	
 <div align="center">
@@ -72,8 +74,6 @@
 </div>
 <br>
 
-Under Construction!
-Last Edited on: 01/08/2023
 <!---
 Samsuhhh/Samsuhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
